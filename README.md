@@ -1,2 +1,0 @@
-# Photoarchive
-colledge project
